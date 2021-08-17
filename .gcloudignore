@@ -21,3 +21,6 @@ __pycache__/
 # development
 .vscode/
 env/
+
+# development entrypoint
+wsgi.py
