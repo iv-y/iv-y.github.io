@@ -29,7 +29,8 @@ h2 {
 }
 
 a {
-    color: #07A;
+    color: #07a;
+    text-decoration-color: #222;
 }
 
 ul {
@@ -55,4 +56,28 @@ li {
 
 .newara {
     color: #e15858;
+}
+
+.rond {
+    color: rgb(45, 67, 211);
+}
+
+.kaistjungle {
+    color: #3ea272;
+}
+
+.kraftonjungle {
+    color: rgb(0, 214, 122);
+}
+
+.krafton {
+    color: #555
+}
+
+.nmail {
+    color: #eb6100
+}
+
+.kaist {
+    color: #005aaa
 }
